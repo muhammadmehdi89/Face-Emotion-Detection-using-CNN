@@ -1,2 +1,2 @@
 # Face-Emotion-Detection-using-CNN
-Face Emotion Detection using tensorflow and keras. It will is the person is happy, sad, angry and more
+Explore the fascinating world of emotion detection using Convolutional Neural Networks (CNNs) with this repository. The code focuses on training a CNN to recognize facial expressions and infer emotions such as happiness, sadness, anger, and more. The dataset preprocessing, model architecture, and training procedures are included, providing a comprehensive solution for building emotion recognition systems using deep learning.
